@@ -1,37 +1,59 @@
 # Hola, soy Allan Martínez 👋
 
-Soy Desarrollador Web Junior en formación. Actualmente estudio Ingeniería en Desarrollo de Software en UVEG y estoy cursando el programa de Desarrollo Web en TripleTen.
+### Junior Full Stack Developer | React · Node.js · Express · MongoDB
 
-Mi experiencia combina diseño gráfico, marketing digital, operaciones y liderazgo de equipos, lo que me permite abordar el desarrollo web con una visión técnica, visual y centrada en el usuario. Disfruto crear interfaces limpias, funcionales y responsivas, mientras sigo aprendiendo a escribir código más organizado, mantenible y profesional.
+Desarrollo aplicaciones web con interfaces responsivas, integración de APIs REST y funcionalidades de frontend y backend.
 
-Actualmente trabajo con HTML, CSS, JavaScript, diseño responsivo, manipulación del DOM, Git, GitHub, APIs y buenas prácticas de desarrollo web. Mi objetivo es seguir creciendo como Desarrollador Front-End / Web Developer y contribuir en proyectos donde se integren el diseño, la usabilidad y la resolución de problemas.
+Finalicé el Bootcamp de Desarrollo Web Full Stack de TripleTen y actualmente estudio Ingeniería en Desarrollo de Software en la UVEG.
 
-## 🛠 Tecnologías y habilidades
+Mi experiencia en diseño gráfico, marketing digital y e-commerce aporta una perspectiva visual, de negocio y centrada en el usuario a mis proyectos.
 
-* HTML5
-* CSS3
-* JavaScript
-* Diseño responsivo
-* Metodología BEM
-* Git y GitHub
-* VS Code
-* Manipulación del DOM
-* Integración de APIs
+## Tecnologías y herramientas
 
-## 🚀 Actualmente aprendiendo
+- **Frontend:** JavaScript ES6+, React, React Router, Vite, HTML5, CSS3, Flexbox, CSS Grid y BEM.
+- **Backend y bases de datos:** Node.js, Express, MongoDB y Mongoose.
+- **APIs y autenticación:** APIs REST, Fetch API, JWT, rutas protegidas y validación con Celebrate/Joi.
+- **Herramientas:** Git, GitHub, npm, Webpack, MongoDB Compass, VS Code y Oxlint.
+- **Conocimientos adicionales:** fundamentos de TypeScript, Photoshop, Illustrator y branding.
 
-* JavaScript avanzado
-* Programación asíncrona
-* APIs REST
-* Ingeniería en Desarrollo de Software
-* Desarrollo Web Full Stack
+## Proyectos destacados
 
-## 📌 Proyectos destacados
+### Pivothunt — Plataforma de búsqueda de empleo
 
-Aquí encontrarás proyectos de mi proceso de formación en desarrollo web, incluyendo sitios responsivos, interfaces interactivas y aplicaciones construidas con JavaScript.
+Proyecto final de TripleTen. Aplicación que permite consultar vacantes mediante The Muse API, buscar y filtrar resultados, y guardar o eliminar empleos de interés.
 
-## 📫 Contacto
+Desarrollé el frontend con React y Vite, incluyendo navegación, componentes reutilizables y estados de carga, error y resultados vacíos. También construí un backend con Express, MongoDB y Mongoose.
 
-* LinkedIn: [https://www.linkedin.com/in/allan-mz/]
-* Email: [allan.mz.gz@gmail.com](mailto:allan.mz.gz@gmail.com)
-* GitHub: [github.com/allan-mg](https://github.com/allan-mg)
+- [Repositorio frontend](https://github.com/allan-mg/pivothunt-frontend)
+- [Repositorio backend](https://github.com/allan-mg/pivothunt-backend)
+
+### Around the U.S. — Aplicación web full stack
+
+Proyecto de TripleTen para compartir fotografías e interactuar con tarjetas.
+
+Migré la interfaz a React y desarrollé componentes para perfiles, avatares, tarjetas, formularios y modales. Implementé una API con Node.js, Express y MongoDB, autenticación JWT, rutas protegidas, validación y manejo centralizado de errores.
+
+### BeeUX Platform — En desarrollo
+
+Proyecto personal para una agencia de marketing digital.
+
+Desarrollo el frontend con React y Vite y el backend con Node.js, Express y MongoDB. He construido secciones de servicios, precios, beneficios y llamadas a la acción.
+
+Las integraciones de pagos y otras funcionalidades comerciales forman parte del desarrollo pendiente.
+
+- [Repositorio](https://github.com/allan-mg/beeux-platform)
+
+## Formación
+
+- Bootcamp de Desarrollo Web Full Stack — TripleTen, finalizado.
+- Ingeniería en Desarrollo de Software — UVEG, en curso.
+- Ingeniería Industrial — Universidad ITACA.
+- Licenciatura en Diseño Gráfico — Universidad Iberoamericana Laguna.
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/allan-mz/)
+- [Correo electrónico](mailto:allan.mz.gz@gmail.com)
+- Ubicación: Torreón, Coahuila, México.
+
+**Idiomas:** español nativo · inglés intermedio · alemán A1.
